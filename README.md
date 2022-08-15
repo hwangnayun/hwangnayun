@@ -1,4 +1,14 @@
-### Hi there 👋
+### 안녕하세요 황나윤입니다! 👋
+
+## BackEnd Developer
+- Spring
+- Java
+- JSP
+- Servlet
+
+⚡ github 
+<br>
+⚡ blog https://ggumi1031.tistory.com/
 
 <!--
 **hwangnayun/hwangnayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
