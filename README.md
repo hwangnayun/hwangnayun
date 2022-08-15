@@ -6,7 +6,7 @@
 - JSP
 - Servlet
 
-⚡ github 
+⚡ github https://github.com/hwangnayun
 <br>
 ⚡ blog https://ggumi1031.tistory.com/
 
