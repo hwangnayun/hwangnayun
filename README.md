@@ -1,6 +1,6 @@
 ### 안녕하세요 황나윤입니다! 👋
 
-## BackEnd Developer
+## Backend Developer
 - Spring
 - Java
 - JSP
